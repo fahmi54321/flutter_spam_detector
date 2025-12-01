@@ -23,5 +23,4 @@ Versi Flutter ini menunjukkan bagaimana aplikasi mobile dapat mengirimkan teks k
 
 ## 5. Teori
 
-- **Naïve Bayes Intuition**
-- [Link](https://medium.com/@fahmiabdulaziz44/na%C3%AFve-bayes-intuition-a9993bccd88f)
+- **Naïve Bayes Intuition**: [Link](https://medium.com/@fahmiabdulaziz44/na%C3%AFve-bayes-intuition-a9993bccd88f)
