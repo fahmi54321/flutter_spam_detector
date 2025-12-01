@@ -1,16 +1,27 @@
-# flutter_spam_detection
+# 🧠 Naive Bayes Classifier – Flutter
 
-A new Flutter project.
+Proyek ini berisi implementasi sederhana **Naive Bayes Classifier** untuk mendeteksi teks (contoh: _spam detector_).
 
-## Getting Started
+## 1. Pendahuluan
 
-This project is a starting point for a Flutter application.
+Versi Flutter ini menunjukkan bagaimana aplikasi mobile dapat mengirimkan teks ke server (API) untuk mendapatkan hasil prediksi berbasis **Naive Bayes Classifier**.
 
-A few resources to get you started if this is your first Flutter project:
+## 2. Teori Singkat
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**Naive Bayes** adalah metode klasifikasi berbasis probabilitas yang memanfaatkan **Bayes Theorem** dengan asumsi bahwa semua fitur bersifat independen.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 3. Dataset & API
+
+- **Dataset**: [Link](https://github.com/fahmi54321/spam_detector/raw/refs/heads/main/spam.csv)
+- **API**: [Link](https://github.com/fahmi54321/spam_detector/blob/main/spam_detection_api.py)
+- **Naive Bayes Classifier Python**: [Link](https://github.com/fahmi54321/spam_detector/blob/main/spam_detection.py)
+
+## 4. Flutter
+
+- **Versi**: 3.38.3
+- **State Management**: Provider
+
+## 5. Teori
+
+- **Naïve Bayes Intuition**
+- [Link](https://medium.com/@fahmiabdulaziz44/na%C3%AFve-bayes-intuition-a9993bccd88f)
